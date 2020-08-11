@@ -1,0 +1,25 @@
+파이썬 라이브러리로 배우는 머신러닝
+         사이킷런 라이브러리( linear, K- 이웃, 서포트백터머신, 라쏘, 
+                  의사결정트리, 랜덤포레스트)  
+         xgboost 라이브러리 - 챔피언
+         (머신러닝알고리즘중에 그라디언트부스팅만)
+         각각의 알고리즘의 사용용도 사용방법
+
+케라스창시자가 쓴 딥러닝 - 케라스 입장에서 
+
+수학교과서로 파이썬 머시러닝 - 머신러닝 라이브러리 구현
+
+https://tykimos.github.io/about/
+
+https://tensorflow.blog/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/1-7-%EC%B2%AB-%EB%B2%88%EC%A7%B8-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EB%B6%93%EA%BD%83%EC%9D%98-%ED%92%88%EC%A2%85-%EB%B6%84%EB%A5%98/
+
+
+설치 - 윈도우 OS  레지스트리 자체 데이터베이스
+       압출풀고, 프로그램에 대한 정보를 레지스트리에 등록 
+       서비스 등록 , 환경변수 (파일편집기)
+
+컬렉션 - 수집 
+list 
+
+myscore = list()                      db.createCollection("myscore")
+myscore.append({'name':'홍길동'})     db.myscore.insert({})
